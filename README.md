@@ -51,3 +51,5 @@ Collection and cleaning of data for the elaboration of the following 3 tables:
 A correlation can be seen between the rise and fall of the barrel price and the turnover in the second half of the year.
 
 The phases of the moon do not seem to influence sales, while if they do, the phase that has coincided most with the rise in turnover is the new moon.
+
+After this study we can conclude that the sales of products of this company operating in Europe, Mexico and Chile during 2022 have not been influenced by the lunar phases or by the rise and fall of the price of Brent crude oil.
